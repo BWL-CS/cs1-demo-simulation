@@ -1,4 +1,4 @@
-# CS1 Wk32 CodeCollab
+# CS1 Wk31 CodeCollab
 
 This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
 
